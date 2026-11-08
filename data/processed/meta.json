@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-07T12:00:01",
-  "matches_rows": 20043,
+  "last_update": "2026-11-08T12:24:24",
+  "matches_rows": 18254,
   "fixtures_rows": 145,
   "main_leagues_ok": [
     "E0",
@@ -8,13 +8,11 @@
     "E2",
     "E3",
     "SC0",
-    "D1",
     "D2",
     "I1",
     "I2",
     "SP1",
     "SP2",
-    "F1",
     "F2",
     "N1",
     "B1",
@@ -22,7 +20,10 @@
     "T1",
     "G1"
   ],
-  "main_leagues_failed": [],
+  "main_leagues_failed": [
+    "D1",
+    "F1"
+  ],
   "extra_leagues_ok": [
     "BRA",
     "ARG",
